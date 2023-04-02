@@ -1,0 +1,5 @@
+Nama: Moh Lutfi Fauzi
+Umur: 23 Tahun
+Jenis Kelamin: Laki - laki
+Pendidikan: Sarjana Teknik Informatika dari Universitas suryakancana
+Keterampilan: Pemrograman (Java, Python, C++), pengembangan web (HTML, CSS, JavaScript), basis data (SQL).
